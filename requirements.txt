@@ -13,4 +13,5 @@ sentence-transformers==3.0.1
 unstructured==0.15.0 
 unstructured[pdf]==0.15.0 
 jq
+streamlit
 
