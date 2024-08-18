@@ -12,4 +12,5 @@ RAG pipeline The RAG pipeline basically involves three critical components: Retr
 
 Retrieval: This component helps you fetch the relevant information from the external knowledge base like a vector database for any given user query. This component is very crucial as this is the first step in curating the meaningful and contextually correct responses. Augmentation: This part involves enhancing and adding more relevant context to the retrieved response for the user query. Generation: Finally, a final output is presented to the user with the help of a large language model (LLM). The LLM uses its own knowledge and the provided context and comes up with an apt response to the user’s query. These three components are the basis of a RAG pipeline to help users to get the contextually-rich and accurate responses they are looking for. That is the reason why RAG is so special when it comes to building chatbots, question-answering systems, etc.
 
-![example1]{}
+![Screenshot 2024-08-18 173908](https://github.com/user-attachments/assets/bec56ffa-9f1a-4f29-ac2e-cd2877b4268e)
+![Screenshot 2024-08-18 173927](https://github.com/user-attachments/assets/9d4a28ce-e78e-47b7-a1de-3ff666737c91)
